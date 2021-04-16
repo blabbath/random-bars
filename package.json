@@ -8,7 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@cds/city": "^1.1.0",
+    "@cds/core": "^5.1.1",
     "core-js": "^3.6.5",
+    "d3": "^6.7.0",
     "vue": "^3.0.0"
   },
   "devDependencies": {
