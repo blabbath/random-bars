@@ -1,5 +1,7 @@
 # vue-random-bars
 
+Little fun project evolving from my Portfolio Website. Just a few bars with random data waving at you =)
+
 ## Project setup
 ```
 npm install
